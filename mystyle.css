@@ -17,3 +17,7 @@ a:active {
 a {
   text-decoration:none;
 }
+
+img {
+   position: relative;
+}
