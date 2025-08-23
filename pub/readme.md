@@ -1,6 +1,7 @@
 
 # Publications
 
++ Qijie Wei, Kaiheng Qian, Xirong Li. [FunBench: Benchmarking Fundus Reading Skills of MLLMs](miccai2025-FunBench.pdf). MICCAI 2025
 + Fan Hu, Zijie Xin, Xirong Li. [Learning Partially-Decorrelated Common Spaces for Ad-hoc Video Search](mm2025-LPD.pdf). ACMMM 2025
 + Jiazhen Liu, Xirong Li. [Geometrized Transformer for Self-Supervised Homography Estimation](iccv2023-GeoFormer.pdf). ICCV 2023
 + Aozhu Chen, Ziyuan Wang, Chengbo Dong, Kaibin Tian, Ruixiang Zhao, Xun Liang, Zhanhui Kang, Xirong Li. [ChinaOpen: A Dataset for Open-world Multimodal Learning](mm2023-ChinaOpen.pdf). ACMMM 2023
