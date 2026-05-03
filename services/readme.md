@@ -18,11 +18,10 @@
 
 ## Conference Technical Committee
 
-+ Senior Area Chair, ACMMM 2025
-+ Area chair, ACMMM 2018/2019/2020/2021/2022
-+ Area chair, ICPR 2016/2020
-+ Senior PC member, AAAI 2022/2023
-+ PC member, ACMMM/CVPR/ICCV/ECCV/IJCAI/AAAI/ICMR/BMVC/CBMI/...
++ Senior Area Chair: ACMMM 2025/2026
++ Area Chair: NeurIPS 2026, ACMMM 2018/2019/2020/2021/2022, ICPR 2016/2020
++ Senior PC member: AAAI 2022/2023
++ PC member: ACMMM/CVPR/ICCV/ECCV/IJCAI/AAAI/ICMR/BMVC/CBMI/...
 
 ## Memberships
 
